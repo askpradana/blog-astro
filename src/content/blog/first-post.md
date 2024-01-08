@@ -1,14 +1,7 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder-3.jpg'
+title: first post
+pubDate: 2024-01-08T04:01:51.927Z
+description: guide to use this blog
 ---
 
-Jarang pulang
-
-Abang jarang pulang
-
-Ihihiw
-
-**title**
+reserved for my first post
